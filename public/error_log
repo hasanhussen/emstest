@@ -1,0 +1,1 @@
+[08-Apr-2022 20:42:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\api\company_control::addproduct() in /home/alarfnzj/public_html/now/now-store/app/Http/Controllers/api/company_control.php on line 61
